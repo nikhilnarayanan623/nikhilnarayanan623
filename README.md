@@ -2,7 +2,7 @@
 - I’m interested in Coding
 - I’m currently learning Web Development
 
-- 📫 How to reach me ...
+Connect With me on LInkedIn-https://www.linkedin.com/in/nikhil-n-248564242
 
 <!---
 Nikhilnarayanan623/Nikhilnarayanan623 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
