@@ -1,13 +1,9 @@
 ![](assets/header.png)
-
 <h1 align="center">Hi there, I'm Nikhil N 👋</h1>
 
 I am a self-taught Golang developer.  I am passionate about backend development and distributed systems. I have completed an e-commerce main project and several mini-projects in the Go Programing language and collaborated on a chatting app project with a front-end developer. I am familiar with clean code architecture and unit testing. I am constantly learning and looking for new challenges.
 
 <p align="center"> 
- <a href="https://github.com/nikhilnarayanan623" alt="Your GitHub">
-   <img src="https://img.shields.io/badge/%20-GitHub-black?logo=GitHub&logoColor=white&style=for-the-badge" />
- </a>
  <a href="https://www.linkedin.com/in/nikhil623" alt="Your LinkedIn">
    <img src="https://img.shields.io/badge/%20-LinkedIn-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge&link=https://www.linkedin.com/in/your_linkedin_profile" />
  </a>
@@ -23,42 +19,38 @@ I am a self-taught Golang developer.  I am passionate about backend development 
 </p>
 
 <h2 align="center">🛠 Technologies & Skills</h2>
-
 <p align="center">
     <a href="https://golang.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="golang" width="54"
-            height="54" style="vertical-align:top; margin:4px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="golang" width="35"
+            height="35" style="vertical-align:top;">
     </a>
     <a href="">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="54" height="54"
-            style="vertical-align:top; margin:4px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="35" height="35"
+            style="vertical-align:top;">
     </a>
     <a href="">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="54"
-            height="54" style="vertical-align:top; margin:4px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="35"
+            height="35" style="vertical-align:top;">
     </a>
     <a href="">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript"
-            width="54" height="54" style="vertical-align:top; margin:4px">
+            width="35" height="35" style="vertical-align:top;">
     </a>
     <a href="">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="54"
-            height="54" style="vertical-align:top; margin:4px">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="35"
+            height="35" style="vertical-align:top;">
     </a>
     <a href="https://aws.amazon.com/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"
-            alt="aws" width="54" height="54" style="vertical-align:top; margin:4px;">
+            alt="aws" width="35" height="35" style="vertical-align:top;">
     </a>
     <a href="https://git-scm.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="54"
-            height="54" style="vertical-align:top; margin:4px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="35"
+            height="35" style="vertical-align:top;">
     </a>
 </p>
-
 <br/>
-
 <h2 align="center">💻 Projects</h2>
-
 <p align="left">
   Here are some of my projects:
 </p>
